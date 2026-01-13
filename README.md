@@ -27,4 +27,4 @@ This workbook includes:
 - Executive reporting (dashboard-style summary)
 
 ## Dashboard Preview
-![Inventory Report KPIs](assets/inventory_report_kpis.png)
+![Inventory Report KPIs](inventory_report_kpis.png)
