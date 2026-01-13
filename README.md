@@ -25,3 +25,6 @@ This workbook includes:
 - Inventory risk flagging (understock / balanced / overstock)
 - Open-to-Buy tracking and budget alignment
 - Executive reporting (dashboard-style summary)
+
+## Dashboard Preview
+![Inventory Report KPIs](assets/inventory_report_kpis.png)
